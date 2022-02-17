@@ -1,4 +1,4 @@
-package go_base
+package stl
 
 import "errors"
 
